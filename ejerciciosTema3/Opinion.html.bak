@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head></head>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head>
 <body>
 <br>
 
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	
   <title>Formulario</title>
   <style>
       body {
@@ -94,8 +95,8 @@
       }
 </style>
 
-  <nav> <a href="ejerciciosTema2/nosotros.html">Nosotros</a> <br>
-      <a href="ejerciciosTema2/NuestrosServicio.html">Nuestros Servicios</a> <br>
+  <nav> <a href="../ejerciciosTema2/nosotros.html">Nosotros</a> <br>
+      <a href="../ejerciciosTema2/nuestrosServicios.html">Nuestros Servicios</a> <br>
       <a href="../index.html">INDEX</a> </nav>
 
     <header>
